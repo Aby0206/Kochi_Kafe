@@ -10,18 +10,13 @@ It was created using:
 
 ## Live Demo
 
-To see the live demo, please [click here](https://patriciageo3.github.io/restaurant-website/).
+To see the live demo, please [click here](https://aby0206.github.io/Kochi_Kafe/).
 
 ## Authors
 
-Coded by Patricia Georgescu
+Coded by Aby Antony
 
-Design by George Olaru
+Design by Adithya Anil
 
 ## License & Copyrights
 Design from Dribble.
-
-Author: George Olaru. To see the template design, please [click here](https://dribbble.com/shots/1560982-Rosa-Restaurant-Website/attachments/239212).
-
-## Quick Live Preview
-![Alt text](assets/img/preview.JPG "Preview")
